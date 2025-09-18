@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asger\\modul2-agiludvikling\\modul2-agiludvikling.csproj": {}
+    "/Users/oskarvesterbaek/src/AgilUdvikling/modul2-agiludvikling.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asger\\modul2-agiludvikling\\modul2-agiludvikling.csproj": {
+    "/Users/oskarvesterbaek/src/AgilUdvikling/modul2-agiludvikling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asger\\modul2-agiludvikling\\modul2-agiludvikling.csproj",
+        "projectUniqueName": "/Users/oskarvesterbaek/src/AgilUdvikling/modul2-agiludvikling.csproj",
         "projectName": "modul2-agiludvikling",
-        "projectPath": "C:\\Users\\Asger\\modul2-agiludvikling\\modul2-agiludvikling.csproj",
-        "packagesPath": "C:\\Users\\Asger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asger\\modul2-agiludvikling\\obj\\",
+        "projectPath": "/Users/oskarvesterbaek/src/AgilUdvikling/modul2-agiludvikling.csproj",
+        "packagesPath": "/Users/oskarvesterbaek/.nuget/packages/",
+        "outputPath": "/Users/oskarvesterbaek/src/AgilUdvikling/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asger\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/oskarvesterbaek/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -68,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

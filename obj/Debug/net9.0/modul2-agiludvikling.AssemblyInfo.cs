@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("modul2-agiludvikling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04130881b8724e841f4a5246a36442861b71924e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+073236ef3004d9bc711216caa92880fa29cc9745")]
 [assembly: System.Reflection.AssemblyProductAttribute("modul2-agiludvikling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("modul2-agiludvikling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
